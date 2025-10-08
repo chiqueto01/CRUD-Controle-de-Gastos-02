@@ -1,0 +1,20 @@
+{
+  "name": "controle-de-gastos",
+  "version": "1.0.0",
+  "description": "Aplicação Web (Frontend + Backend) Controle de Gastos - Express + SQLite",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "seed": "node scripts/seed.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
