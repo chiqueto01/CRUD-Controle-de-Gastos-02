@@ -24,7 +24,7 @@ npm start      # inicia o servidor em http://localhost:3000
    - **Build Command:** `npm install`
    - **Start Command:** `npm start`
    - **Runtime:** Node 18+
-4. Nomeie o serviço como  
-   `controledegastos-MatheusChiqueto`  
-   O link final será:  
-   `https://controledegastos-MatheusChiqueto.onrender.com`
+
+**Deploy:** A URL ficará no formato:  
+`https://controledegastos-MatheusChiqueto.onrender.com`  
+**Dica:** Dê o nome do serviço como `controledegastos-MatheusChiqueto` para bater com o formato solicitado.
